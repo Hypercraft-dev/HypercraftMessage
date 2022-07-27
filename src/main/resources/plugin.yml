@@ -1,0 +1,5 @@
+name: HypercraftMessageBukkit
+version: '${project.version}'
+main: hypercraft.hypercraftmessagebukkit.HypercraftMessageBukkit
+api-version: 1.19
+authors: [ Florianpal, Kaname ]
